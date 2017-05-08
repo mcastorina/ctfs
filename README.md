@@ -9,4 +9,5 @@ screenshots they will be in the `img` directory.
 
 ## Timeline
 
+* PACTF - April 2017
 * ISSS CTF - April 2017
